@@ -1,6 +1,7 @@
 char-rnn-tensorflow
 ===
-
+# NOTE THAT THIS PROJECT USES THE CHAR-RNN IMPLEMENTATION FROM https://github.com/sherjilozair/char-rnn-tensorflow 
+# THIS REPO WAS SOLELY CREATED FOR SUBMISSION TO A FINAL PROJECT
 [![Join the chat at https://gitter.im/char-rnn-tensorflow/Lobby](https://badges.gitter.im/char-rnn-tensorflow/Lobby.svg)](https://gitter.im/char-rnn-tensorflow/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Coverage Status](https://coveralls.io/repos/github/sherjilozair/char-rnn-tensorflow/badge.svg)](https://coveralls.io/github/sherjilozair/char-rnn-tensorflow)
 [![Build Status](https://travis-ci.org/sherjilozair/char-rnn-tensorflow.svg?branch=master)](https://travis-ci.org/sherjilozair/char-rnn-tensorflow)
